@@ -1,5 +1,8 @@
 # AI-Assisted DevOps - 10-Day Course Syllabus
 
+<img width="960" alt="ASSISTED" src="https://github.com/user-attachments/assets/a9c603a6-5106-4a7b-9a09-5aa5de5f0407" />
+
+
 ---
 
 ## **Day 1: Introduction to AI for DevOps**
