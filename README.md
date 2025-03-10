@@ -10,10 +10,11 @@
 - Why AI is a game-changer for DevOps
 - Overview of Generative AI and LLMs (without deep theory)
 - Popular AI tools for DevOps Engineers.
-- Hands-on: Using AI to explain DevOps concepts & generate documentation
 
+- Hands-on: Create a GitHub repository that contains a bash script. when executed the bash script confirms the health of a virtual machine by looking at the parameters such as cpu, disk space, memory e.t.c.,. Please note that the bash script should also support a command line argument named "explain", when passed, "explain" provides the detailed summary of the health status.
+  
 ### 🛠 Mini-Challenge
-"TBD"
+- Try the hands-on demonstration explained in the video.
 
 ---
 
