@@ -20,15 +20,13 @@
 
 ## **Day 2: Prompt Engineering Masterclass**
 ### 📌 Topics
-- **Fundamentals:** Tokens, temperature, max tokens, top-p, frequency & presence penalties
+- **Fundamentals:** Tokens, temperature and max tokens.
 - **Techniques:** Zero-shot, few-shot, n-shot, and Chain-of-Thought (CoT) prompting
 - Writing structured prompts for DevOps use cases
 - AI-generated regex, Bash scripts, Terraform, and CI/CD configurations
 
 ### 🛠 Hands-on
-- **Experimenting with LLM parameters** to optimize AI outputs
-- **Mini-Challenge:** "Use AI to debug a YAML file and refine output with prompt tweaks"
-- **Live Demo:** Auto-generating a Kubernetes Helm chart using prompt refinement
+- **Live Demo:** Demonstrate an example of few shot prompting in real time.
 
 ---
 
