@@ -47,10 +47,10 @@
 ## **Day 4: AI-Powered Shell Scripting & CLI Automation**
 ### 📌 Topics
 - Using AI to improve Bash/Python scripting
-- AI-assisted log analysis and troubleshooting
+- AI-assisted Shell Scripting
 
 ### 🛠 Hands-on
-- **Mini-Challenge:** "Generate a log analysis script using AI & refine it for better accuracy"
+- **Mini-Challenge:** "Generate a shell script to create VPC in AWS with all the best practices"
 
 ---
 
