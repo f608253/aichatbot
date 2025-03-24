@@ -56,11 +56,9 @@
 
 ## **Day 5: AI for Observability & Incident Response**
 ### 📌 Topics
-- AI-powered monitoring with **Prometheus, Grafana, and New Relic**
-- AI for **log pattern recognition & anomaly detection**
-
-### 🛠 Hands-on
-- **Mini-Challenge:** "Use AI to analyze a set of logs and summarize root causes"
+- Introduction to AIOps
+- What is AIOps and What is not ?
+- AI-powered monitoring with **Enterprise Observability Platforms**
 
 ---
 
