@@ -64,15 +64,12 @@
 
 ## **Day 6: AIOps - AI for IT Operations**
 ### 📌 Topics
-- What is **AIOps** and how does it work?
-- AI-powered **incident detection and auto-remediation**
-- Using AI for **predictive maintenance & anomaly detection**
-- **Tools:** Dynatrace, Moogsoft, IBM Watson AIOps
+- **AIOps** Recap?
+- AI-powered **Log Analysis**
+- Using AI for **anomaly detection** (Python)
 
 ### 🛠 Hands-on
-- **Live Demo:** Running **AIOps-based incident detection & root cause analysis**
-- **Mini-Challenge:** "Use AI to predict server failures based on logs"
-
+- **Demo:** "Use AI to predict server failures or app failures based on logs"
 ---
 
 ## **Day 7: AI for CI/CD Pipeline Optimization**
