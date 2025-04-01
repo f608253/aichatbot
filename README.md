@@ -72,24 +72,21 @@
 - **Demo:** "Use AI to predict server failures or app failures based on logs"
 ---
 
-## **Day 7: AI for CI/CD Pipeline Optimization**
-### 📌 Topics
-- AI-powered automation in **Jenkins, GitHub Actions, GitLab CI/CD**
-- AI-assisted **YAML validation and error fixing**
-
-### 🛠 Hands-on
-- **Mini-Challenge:** "Generate a GitHub Actions pipeline using AI and debug an error"
-
----
-
-## **Day 8: AI Agents for DevOps (Hands-on)**
+## **Day 7: AI Agents for DevOps (Hands-on)**
 ### 📌 Topics
 - **What are AI Agents?** How do they work?
-- AI-powered **self-healing infrastructure**
+- Create your very First AI Agent in simple steps. 
 
 ### 🛠 Hands-on
-- **Project:** Build a **simple AI agent** that monitors a deployment and suggests fixes
+- **Project:** Build a project using **simple AI agents** that performs a research and writes a detailed analysis in blog style.
+---
 
+## **Day 8: AI Agents for DevOps **
+### 📌 Topics
+- **WIP**
+
+### 🛠 Hands-on
+- **WIP**
 ---
 
 ## **Day 9: AI for Security & FinOps (Cost Optimization)**
