@@ -83,29 +83,23 @@
 
 ## **Day 8: AI Agents for DevOps **
 ### 📌 Topics
-- **WIP**
+- Build an AI Agent for your Internal tools and documentation using CrewAI
+- In house AI Agents
 
 ### 🛠 Hands-on
-- **WIP**
----
+- Build an AI agent to read internal documentation(PDF) and train it to answer user queries. 
 
 ## **Day 9: AI for Security & FinOps (Cost Optimization)**
 ### 📌 Topics
-- AI-assisted **vulnerability scanning** (Trivy, Snyk, Checkov)
-- AI-powered **cloud cost optimization (FinOps)**
-- AI-generated **compliance reports (CIS, NIST, PCI-DSS)**
-
-### 🛠 Hands-on
-- **Mini-Challenge:** "Use AI to scan a container image for vulnerabilities"
-- **Live Demo:** Running an **AI-powered cloud cost analysis**
+- WIP
 
 ---
 
 ## **Day 10: Capstone Project & Future of AI in DevOps**
 ### 📌 Topics
-- AI trends in DevOps (AI-powered SRE, AIOps, FinOps)
-- **Final Capstone Project:** Implement an AI-assisted DevOps automation
-- **Peer Review:** Learners give feedback on each other's projects
+- Build an AI Agent
+- AI Agent for DevOps usecase
+- Deploy the AI Agent to Kubernetes
 
 ---
 
