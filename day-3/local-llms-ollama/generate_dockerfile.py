@@ -1,13 +1,16 @@
 import ollama
 
 PROMPT = """
-ONLY Generate an ideal Dockerfile for {language} with best practices. Do not provide any description
+ONLY Generate an ideal Dockerfile for {language} with best practices. Don't provide any description
+Please note to use distroless image.
 Include:
 - Base image
 - Installing dependencies
 - Setting working directory
 - Adding source code
+- Giving 755 permission to the app.jar file in container
 - Running the application
+- Multistage docker build
 """
 
 def generate_dockerfile(language):
